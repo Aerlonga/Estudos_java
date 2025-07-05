@@ -1,6 +1,6 @@
 package Exercicio1;
 
-public class main {
+public class mainClass {
     public static void main(String[] args) {
 
         String product1 = "Computer";
